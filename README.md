@@ -1,4 +1,6 @@
 # sqlFourthTask
+## Bu repo [Patika.dev](https://www.patika.dev) tarafından verilen `SQL` ödevini içermektedir.
+---
 ## Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 ### 1- film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 - SELECT DISTINCT replacement_cost FROM film;
